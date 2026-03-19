@@ -1,2 +1,3 @@
 # hse-DL-NLP-thesis
-Nationality and education bias in modern LLMs.
+
+Проект Nationality and education bias in modern LLMs. Авторы: Соня Черноусенко, Майя Горшенина, Полина Егорова
